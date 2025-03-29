@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://<LucasTI>:<Lucasps4>@testl.wnpva.mongodb.net/
+      database: test1
